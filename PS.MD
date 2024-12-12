@@ -85,7 +85,6 @@ function Invoke-Description {
     }
 }
 
-# Example Usage:
 # Invoke-Description -d "hacklab.local" -k "admin"
 
 ```
